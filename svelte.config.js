@@ -15,7 +15,7 @@ const config = {
 			fallback: '404.html',
 		}),
 		paths: {
-			base: 'box-calculator'
+			base: '/box-calculator'
 		}
 	}
 };
